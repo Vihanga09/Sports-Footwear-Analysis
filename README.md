@@ -3,19 +3,23 @@
 This project provides a comprehensive analysis of global sports footwear sales, featuring key metrics like revenue, unit sales, and customer ratings across different brands and regions.
 
 ## 📊 Dashboard Preview
-dashboard_preview.png.png
+![Dashboard Preview](Dashboard Preview.png.png)
 
 ## 📂 Project Contents
 * **Parinda A.V.V.S.pbix**: The main Power BI Desktop file.
 * **global_sports_footwear_sales_2018_2026.csv**: The dataset used for analysis.
 * **Project_Report.pdf**: Full documentation and insights in PDF format.
+* **Dashboard Preview.png.png**: Visual preview of the analytics dashboard.
 
 ## 🚀 Key Insights
-* Sales trends from 2018 to 2026.
-* Brand performance comparison (Nike, Adidas, Puma, etc.).
-* Customer demographics and channel preference analysis.
+* **Sales Trends**: Comprehensive analysis of sales performance from 2018 to 2026.
+* **Brand Comparison**: Performance metrics for major brands including Nike, Adidas, Puma, and more.
+* **Customer Demographics**: Insights into consumer behavior, income levels, and regional channel preferences.
 
 ## 🛠️ How to View
-1. Download the `.pbix` file.
-2. Open it using **Power BI Desktop**.
-3. Make sure the `.csv` file is in the same directory if you need to refresh the data.
+1. Download the `.pbix` file and the `.csv` dataset.
+2. Open the project using **Power BI Desktop**.
+3. Ensure both files are in the same directory if you need to refresh the data connection.
+
+---
+*Developed by Parinda A.V.V.S*
