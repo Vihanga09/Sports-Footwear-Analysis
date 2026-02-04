@@ -3,7 +3,7 @@
 This project provides a comprehensive analysis of global sports footwear sales, featuring key metrics like revenue, unit sales, and customer ratings across different brands and regions.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](Dashboard%20Preview.png.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ## 📂 Project Contents
 * **Parinda A.V.V.S.pbix**: The main Power BI Desktop file.
